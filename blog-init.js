@@ -28,7 +28,7 @@ function changeLocationLinks() {
     }
   });
 }
-function checkImpartantÐ¡ondition() {
+function checkImportantCondition() {
   const paginationContainer = document.querySelector('.pagination-container');
 
   if (!paginationContainer) {
