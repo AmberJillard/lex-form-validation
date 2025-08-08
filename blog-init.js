@@ -48,7 +48,7 @@ function checkImportantCondition() {
     });
   }
 }
-checkImpartantÐ¡ondition();
+checkImportantCondition();
 
 /* =========================
    (2) observer-pagination.js
